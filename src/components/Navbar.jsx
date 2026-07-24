@@ -15,7 +15,7 @@ const Navbar = () => {
     <header className="sticky top-0 z-50 border-b border-ink/10 bg-paper/90 backdrop-blur-sm">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <a href="#beranda" className="font-label text-sm tracking-[0.2em] text-ink uppercase">
-          KKN <span className="text-ochre">·</span> [Nama Desa]
+          KKN <span className="text-ochre">·</span> [Pedukuhan Plagrak Kiyaran, Wukirsari, Cangkringan, Sleman]
         </a>
 
         <nav className="hidden gap-8 md:flex">

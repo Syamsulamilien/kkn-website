@@ -28,12 +28,12 @@ const Hero = () => {
 
           <h1 className="max-w-2xl font-display text-5xl font-medium leading-[1.1] text-ink md:text-6xl">
             <BlurText text="Catatan pengabdian di" delay={80} />{' '}
-            <BlurText text="[Nama Desa]." delay={80} className="italic text-forest" />
+            <BlurText text="[Pedukuhan Plagrak Kiyaran, Wukirsari, Cangkringan, Sleman]." delay={80} className="italic text-forest" />
           </h1>
 
           <p className="mt-6 max-w-md font-body text-ink/70">
             Dokumentasi program kerja, cerita harian, dan wajah-wajah di balik Kuliah Kerja Nyata
-            kami di [Nama Desa, Kecamatan, Kabupaten].
+            kami di [Pedukuhan Plagrak Kiyaran, Wukirsari, Cangkringan, Sleman].
           </p>
 
           <div className="mt-10 flex flex-wrap items-center gap-4 font-label text-xs uppercase tracking-widest text-ink/60">
@@ -43,7 +43,7 @@ const Hero = () => {
         </div>
 
         <div className="hidden justify-self-end md:flex">
-          <Stempel text="KKN KELOMPOK [06] • [NAMA DESA] • " size={190} />
+          <Stempel text="KKN KELOMPOK [06] • [Pedukuhan Plagrak Kiyaran, Wukirsari, Cangkringan, Sleman] • " size={190} />
         </div>
       </div>
 
